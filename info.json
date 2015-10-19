@@ -1,0 +1,11 @@
+
+{
+  "name": "craftfasterio",
+  "version": "1.0.0",
+  "title": "Craft Fasterio",
+  "author": "MagicLegend (0.12.x port)",
+  "contact": "MagicLegend",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=12787",
+  "description": "Adds research to accelerate manual crafting.",
+  "dependencies": ["base > 0.12.0"]
+}
