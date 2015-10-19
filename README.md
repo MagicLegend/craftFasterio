@@ -1,7 +1,7 @@
 # craftFasterio
 An small mod for Factorio which adds research that will enable the player to craft faster. Extremely OP, extremely handy.
 
-Based upon: http://www.factorioforums.com/forum/viewtopic.php?f=87&t=12787. Since the original creator was an extreme doosh to me, I couldn't care less if he doesnt want me to port his code to 0.12. I am going to call the code mine now, and put it under MIT licence.
+Based upon: http://www.factorioforums.com/forum/viewtopic.php?f=87&t=12787. Since the original creator was an extreme doosh to me, I couldn't care less if he doesnt want me to port his code to 0.12. I am going to call the code mine now, and put it under ICC licence.
 
 Deal with it.
 
